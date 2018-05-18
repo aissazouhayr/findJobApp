@@ -5,15 +5,11 @@
 	el: '#simpleApp',
 	data: {
 		apiData: '',
-		category:'',
+		
 		selected: '',
-		drawer: false,
+		
 		job:'',
 		dialog: false,
-        notifications: false,
-        sound: true,
-		widgets: false,
-		allagencies:[]
 	},
 	methods: {                              
 		loadApi: function () {
@@ -22,10 +18,8 @@
 		},
 		successCallback: function(response) {
 			this.apiData = response.data;
-			for(var i =0; i<this.apiData.length;i++){
-				var all = this.apiData[i];
-				$(this.allagencies).append(all);
-            };
+			
+            
 			console.log('successCallback this.apiData:' , this.apiData);
 		},
 		errorCallback: function(response) {
