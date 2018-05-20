@@ -4,7 +4,7 @@
 <meta name="Description" content="Civil Open Data for NYC DECAS">
 <body>
 <head>   
-    <img src="MyImages\NYCLOGO.jpg"/>
+    <img src="NYCLOGO.jpg"/>
 <h1>NYC Department of Administrative Services</h1>
 <style>
 body{
@@ -19,7 +19,7 @@ body{
 
 <a href="http://www.nyc.gov/html/dcas/html/home/home.shtml">NYC Department of Adminstrative Services</a>
 
-<img src="MyImages\NewYorkCity.jpg"/>
+<img src="NewYorkCity.jpg"/>
 
 
 </body>
