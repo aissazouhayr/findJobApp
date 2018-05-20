@@ -12,9 +12,7 @@ body{
 }
 
 </style>
-<p>The Department of Administrative services is the city agency in New York City that is reponsible to ensure there fair play in of New Yorker 
-    that live in all the five boroughs of New York City. They the conduct computerised Civil service exams and send the and placed successful candidates
-    on waiting list until its time for the candidates to be called for interview in  all the City agencies in New York City.</p>
+<p>The Department of Administrative services is the city agency in New York City that is reponsible to ensure there is fair play in of New Yorkers that live in all the five boroughs of New York City. They conduct computerised Civil Service exams and placed the names of successful candidates City agencies that will hire them  on waiting list until it is time for the candidates to be called for interview in  all the City agencies in New York City.</p>
 
 <button>Click Here to Book an Appointment</button>
 <p>The Department of Citywide Administrative Services can be reached at the website below.</p>
