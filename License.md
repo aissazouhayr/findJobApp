@@ -9,7 +9,7 @@
  
 <p>The above website does not hold any liability for any of its contents. The person who works on this website had dedicated <br>
 the work for public domain and strictly abide by the law governing the production of website. We therefore waive the right to<br> 
-the work as spelt in the copywright law to the full extent as allowed by the law
+work as spelt out in the copywright law to the full extent as allowed by the law.
 </p>
 
 
