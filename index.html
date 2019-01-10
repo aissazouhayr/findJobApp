@@ -63,11 +63,11 @@
 	</div> 
 	<div v-if="selected"  style="height: 300px; overflow:auto; "  >
 				
-		<span   v-for="option in apiData" :key="option.id" v-bind:job_id="option.job_id" >	         
-				<v-btn	v-model="job"   v-if="option.agency == selected" dark block color="grey"  background-color="red"
-					@click=selectionChanged(option.job_id) 
-				> {{option.civil_service_title}}   </v-btn>  
-		</span>				
+	<span   v-for="option in apiData" :key="option.id" v-bind:job_id="option.job_id" >	         
+	<v-btn	v-model="job"   v-if="option.agency == selected" dark block color="grey"  background-color="red"
+		@click=selectionChanged(option.job_id) 
+	> {{option.civil_service_title}}   </v-btn>  
+	</span>				
 	</div>
 </div>
 </v-layout >
@@ -133,18 +133,18 @@
 </v-container >	
 
 
-		</v-content>
+   </v-content>
 		
-		   <template>
-					<v-footer height="auto" class="grey darken-3">
-						<v-layout row wrap justify-center>
-						
-						<v-flex xs12 py-3 text-xs-center white--text>
-							&copy;2018 — <strong>Aissa zouhayr</strong>
-						</v-flex>
-						</v-layout>
-					</v-footer>
-			  </template>
+   <template>
+			<v-footer height="auto" class="grey darken-3">
+				<v-layout row wrap justify-center>
+				
+				<v-flex xs12 py-3 text-xs-center white--text>
+					&copy;2018 — <strong>Aissa zouhayr</strong>
+				</v-flex>
+				</v-layout>
+			</v-footer>
+	  </template>
 	</v-app>
 	
 		  
