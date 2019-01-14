@@ -24,3 +24,6 @@ body{
 
 </body>
 </html>
+
+
+<img src="NewYorkCity.jpg"/>
